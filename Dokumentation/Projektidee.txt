@@ -1,0 +1,11 @@
+Das Programm soll dem/der Nutzer*In ermöglichen zu erfahren an welchem Tag im Monat welches seiner/ihrer abonnierten (US)Comic-Hefte erscheint.
+
+Über drei Reiter/Tabs kann der/die Nutzer*In n einem Kalender die wöchentlichen Releases einsehen,
+Informationen über einzelne Serien (Writer, Artist, Publisher, Release) einholen und seine/ihre Abos managen.
+
+Im Reiter Kalender kann der/die Nutzer*In die jeweiligen wöchentlichen Releases einsehen, dabei werden die Abos des/der Nutzer*in hervorgehoben.
+
+IM Tab Serien/Einzelhefte können Informationen (Writer, Artist, Publisher, Release) zu den einzelnen Heften/Serien eingesehen werden,
+dabei können die Serien nach verschiedenen Kriterien sortiert oder durch eine Suchfunktion gesucht werden.
+
+Unter Abos soll der/die Nutzer*In managen welche Hefte aktuell von ihr/ihm abonniert sind. Dabei können die Hefte nach verschiedenen Kriterien sortiert oder durch eine Suchfunktion gesucht werden.
