@@ -43,3 +43,30 @@ Hier noch ein Absatz zum Thema Interaktion: Die Schaltflächen, die NutzerInnen v
 Hier die zweite Schwierigkeit: Sie müssen sich überlegen, was Sie alles streichen und was sie alles ergänzen müssen, damit es ein eigenständiges webbasiertes Computerspiel wird.
 
 Sie müssen bei der Projektkonzeption also insbesondere an Dinge denken, die in einem Brettspiel nicht vorkommen. Ein Log-In oder eine Highscore-Liste wären nur zwei von vielen Möglichkeiten, die hinzukommen. Die direkte Unterhaltung zwischen Spielern muss dagegen im Bedarfsfall anders gelöst werden. Und Aufgaben wie das Aufnehmen einer Karte, das verschieben eines Elements auf dem Spielbrett fallen häufig bei Computerspielen unter den Tisch.
+
+
+
+
+
+
+Neue Projektbeschreibung
+
+
+Das Ziel der Spieler*Innen ist es die Welt, als Kultisten, ins Unheil zu stürzen.
+Dies geschieht in dem sie sich ausbreiten, Ressourcen sammeln, zaubern, dem Guten erwehren und Wesenheiten beschwören, dabei gilt es jedoch nicht dem Wahnsinn zu verfallen.
+
+
+Innerhalb eine begrenzten Rundenzahl ist es die AUfgabe der Spieler Punkte zusammeln und das Gute abzuwehren.
+
+Zu Beginn jeder Runde ermitteln die "Kultisten" ihre Zugreihenfolge und die ihnen zur Verfügung stehenden Beschwörungspunkte.
+
+Danach haben die Spieler*Innen die Möglichkeit mit ihren Beschwörungspunkten "alte Wesenheiten" zu beschwören, dies aber auf Kosten ihrer geistigen Gesundheit.
+Diese beschworenen "Alten" geben gewisse Boni für den/die Beschwörende/n (z.B. Ressourcen).
+
+Mit Ressourcen können sich die Kultist*Innen über das Gebiet ausbreiten. Dies beeinflusst ihren Punktestand und es können Zauber gefunden werden.
+Solche Zauber haben Einfluss auf Kämpfe, Ressourcen und Beschwörungen.
+
+In bestimmten Runden greift nun das Gute an. Dieses gilt es mit zuvor berechneten Werten zurückzuschlagen.
+An Hand des Kampfergebnisses bekommen die Spieler*Innen Ressourcen hinzu oder es werden ihnen welchen abgezogen.
+ 
+Wenn nun alle Runden vorbei sind, gewinnt der/die Kultist*In mit den meisten Punkten. 
