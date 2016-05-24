@@ -56,7 +56,9 @@ Das Ziel der Spieler*Innen ist es die Welt, als Kultisten, ins Unheil zu stürzen
 Dies geschieht in dem sie sich ausbreiten, Ressourcen sammeln, zaubern, dem Guten erwehren und Wesenheiten beschwören, dabei gilt es jedoch nicht dem Wahnsinn zu verfallen.
 
 
-Innerhalb eine begrenzten Rundenzahl ist es die AUfgabe der Spieler Punkte zusammeln und das Gute abzuwehren.
+Vor Speilbeginn, wählen die Spieler*Innen aus, wie viele Personen teilnehmen sollen. Die Anzahl der teilnehmenden Personen ist aud 3-5 Spieler*Innen beschränkt, sollten nicht genügend Personen anwehsend sein, können auch COmputergegner einspringen. 
+
+Innerhalb einer begrenzten Rundenzahl ist es die AUfgabe der Spieler Punkte zusammeln und das Gute abzuwehren.
 
 Zu Beginn jeder Runde ermitteln die "Kultisten" ihre Zugreihenfolge und die ihnen zur Verfügung stehenden Beschwörungspunkte.
 
